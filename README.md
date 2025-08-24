@@ -18,3 +18,10 @@ Pandas, NumPy
 OpenPyXL, xlrd
 
 This project strengthened my skills in data cleaning, preprocessing, and handling real-world data issues — which are crucial in Data Analysis, Data Science, and ETL pipelines.
+
+It's take path and file name(Airbnb raw data)
+And returns
+  Clean data--Air_clean.csv
+  Duplicate data--Air_Duplicates.csv
+ 
+   
